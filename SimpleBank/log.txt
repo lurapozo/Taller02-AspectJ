@@ -1,0 +1,3 @@
+
+[ Tipo: Transaccion | Fecha: Thu Oct 21 12:08:52 CDT 2021 ] 
+[ Tipo: Retiro | Fecha: Thu Oct 21 12:08:52 CDT 2021 ] 
